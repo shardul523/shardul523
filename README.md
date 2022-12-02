@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shardul523
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
+- 🌱 I’m a Web Developer specialising in the MERN stack
 - 💞️ I’m looking to collaborate on Open-source Projects
 - 📫 How to reach me https://www.linkedin.com/in/shardul-sisodiya-2671a2222/
 
